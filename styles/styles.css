@@ -78,6 +78,27 @@ header {
     position: relative; left: 900px; top: -350px;
     
 }
+#hero-img-mj{
+  position:relative; left:-340px; top:30px;
+  max-width: 50%;
+  
+}
+.home-title-mj{
+  font-family: var(--heading-font);
+  position: relative; left:-350px; top:80px;
+  color: blue;
+}
+
+#p-mj{
+  font-family: var(--paragraph-font);
+  font-size: 1.35em;
+  color: black;    
+  margin-right: 20%;
+  letter-spacing: 1.2px;    
+  width: 550px;
+  position: relative; left: 900px; top: -350px;
+  
+}
 
 
 
