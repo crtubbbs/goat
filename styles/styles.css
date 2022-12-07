@@ -96,8 +96,19 @@ header {
   margin-right: 20%;
   letter-spacing: 1.2px;    
   width: 550px;
-  position: relative; left: 900px; top: -350px;
-  
+  position: relative; left: 900px; top: -550px;
+ 
+}
+
+#p-mj2{
+  font-family: var(--paragraph-font);
+  font-size: 1.35em;
+  color: black;    
+  margin-right: 20%;
+  letter-spacing: 1.2px;    
+  width: 550px;
+  position: relative; left: 900px; top: -525px;
+  margin-bottom: -350px;
 }
 
 
