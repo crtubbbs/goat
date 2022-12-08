@@ -76,7 +76,7 @@ header {
     letter-spacing: 1.2px;    
     width: 550px;
     position: relative; left: 900px; top: -350px;
-    
+    margin-bottom: -300px;
 }
 #hero-img-mj{
   position:relative; left:-340px; top:30px;
